@@ -1,0 +1,13 @@
+{
+  "name": "docker-node",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "~4.15.5",
+    "pg": "^7.4.0"
+  }
+}
